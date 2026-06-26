@@ -55,6 +55,9 @@ git clone https://github.com/your-username/invoice-generator.git
 No installation or additional dependencies are required.
 
 ---
+## 📸 Screenshot
+
+![Invoice Generator](invoice.png.jpeg)
 
 ## 🎯 Learning Outcomes
 
